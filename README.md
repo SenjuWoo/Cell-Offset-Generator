@@ -1,4 +1,17 @@
+<p align="center">
+  <img src="assets/mark.svg" width="72" height="72" alt="Cell-Offset-Generator">
+</p>
+
+<div align="center">
+
 # Cell-Offset-Generator
+
+<p>
+  <a href="https://github.com/SenjuWoo/Cell-Offset-Generator/releases/latest"><img src="https://img.shields.io/github/v/release/SenjuWoo/Cell-Offset-Generator?label=release&color=8A7434&labelColor=0d1117" alt="latest release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-8A7434?labelColor=0d1117" alt="GPL-3.0 License"></a>
+</p>
+
+</div>
 
 Cell-offset table generator for Bethesda games. Speeds up ESP cell lookups by extending the OFST fast-path beyond masters — regenerates worldspace cell offset tables that tools like xEdit strip out.
 
